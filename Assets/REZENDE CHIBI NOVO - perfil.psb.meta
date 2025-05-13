@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 080894a53b6586f47aca9305d0bde73f
+guid: 4b63d8871e11fa54489748e8338f5339
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -83,7 +83,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: 5f322aff57a47804cad5c418811f8c4a
+    spriteID: 4511d39bf10986a42b7d2e2a5be81695
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -103,6 +103,7 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
+<<<<<<< Updated upstream
       x: 4
       y: 5898
       width: 690
@@ -156,6 +157,14 @@ ScriptedImporter:
         serializedVersion: 2
 >>>>>>> 0fc52d8eb072c9dd9db519df561412beaa44a931
         rgba: 4294967040
+=======
+      x: 3305
+      y: 1722
+      width: 682
+      height: 771
+    spriteID: ed2df7ae07212e743aa919be16d482c9
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 346.376, y: 2.695984}
@@ -547,8 +556,30 @@ ScriptedImporter:
     - {x: 32, y: 33}
     - {x: 33, y: 34}
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 5898}
-    spritePosition: {x: 3007, y: 2152}
+    uvTransform: {x: 3305, y: 1722}
+    spritePosition: {x: 3003, y: 2878}
+  - name: "BR\xC7 PF A1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2606
+      y: 1722
+      width: 691
+      height: 960
+    spriteID: 4394b58c74ed22b4cb8fcb126cd84d4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2606, y: 1722}
+    spritePosition: {x: 2929, y: 2131}
   - name: TRON PF
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -558,6 +589,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
+<<<<<<< Updated upstream
       y: 2872
       width: 1682
       height: 1609
@@ -590,6 +622,13 @@ ScriptedImporter:
       color:
         serializedVersion: 2
         rgba: 4278255615
+=======
+      y: 2837
+      width: 1627
+      height: 1591
+    spriteID: 6e7b2490cf2619f41ae006f96dc157ec
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 695.004, y: 86.47998}
@@ -948,8 +987,8 @@ ScriptedImporter:
     - {x: 29, y: 30}
     - {x: 30, y: 31}
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 2872}
-    spritePosition: {x: 2061, y: 2114}
+    uvTransform: {x: 4, y: 2837}
+    spritePosition: {x: 2104, y: 2131}
   - name: "BR\xC7 PF 1"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -958,6 +997,7 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
+<<<<<<< Updated upstream
       x: 2636
       y: 1549
       width: 1343
@@ -1008,6 +1048,14 @@ ScriptedImporter:
       color:
         serializedVersion: 2
         rgba: 4294902015
+=======
+      x: 2606
+      y: 853
+      width: 838
+      height: 861
+    spriteID: 4c3c6ac946e1ed0448ba93f75fff3101
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 431.396, y: 40.395996}
@@ -1355,9 +1403,9 @@ ScriptedImporter:
     - {x: 28, y: 29}
     - {x: 29, y: 30}
     tessellationDetail: 0
-    uvTransform: {x: 2636, y: 1549}
-    spritePosition: {x: 1526, y: 2341}
-  - name: "CAL\xC7 F1"
+    uvTransform: {x: 2606, y: 853}
+    spritePosition: {x: 2028, y: 2775}
+  - name: "BR\xC7 PF A1"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -1365,8 +1413,9 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
-      x: 2636
+      x: 2606
       y: 4
+<<<<<<< Updated upstream
       width: 1349
       height: 1537
     spriteID: de0a4473b070faf4db85c4f76de33b5c
@@ -1434,6 +1483,12 @@ ScriptedImporter:
       color:
         serializedVersion: 2
         rgba: 4294901888
+=======
+      width: 885
+      height: 841
+    spriteID: caa99134eb2f2ee45afa339b8a0b6419
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 710.83203, y: 5.671997}
@@ -2194,9 +2249,9 @@ ScriptedImporter:
     - {x: 33, y: 34}
     - {x: 34, y: 35}
     tessellationDetail: 0
-    uvTransform: {x: 2636, y: 4}
-    spritePosition: {x: 2253, y: 885}
-  - name: PERN T1
+    uvTransform: {x: 2606, y: 4}
+    spritePosition: {x: 1540, y: 2356}
+  - name: "CAL\xC7 PF"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2205,6 +2260,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
+<<<<<<< Updated upstream
       y: 4489
       width: 949
       height: 1401
@@ -2277,6 +2333,13 @@ ScriptedImporter:
         serializedVersion: 2
         rgba: 4278255488
 >>>>>>> 0fc52d8eb072c9dd9db519df561412beaa44a931
+=======
+      y: 4436
+      width: 1534
+      height: 1013
+    spriteID: 78a8d1b599058204db0fc0e394ecefbf
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 358.19598, y: 14.447998}
@@ -2941,8 +3004,52 @@ ScriptedImporter:
     - {x: 31, y: 32}
     - {x: 32, y: 33}
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 4489}
-    spritePosition: {x: 2144, y: 1021}
+    uvTransform: {x: 4, y: 4436}
+    spritePosition: {x: 2106, y: 1398}
+  - name: PE PF F1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5457
+      width: 781
+      height: 1233
+    spriteID: 33c0a4a45a427bd4595e20856caaa53c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5457}
+    spritePosition: {x: 2657, y: 959}
+  - name: PF PF F1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6698
+      width: 779
+      height: 1226
+    spriteID: 764b8dc845bfb3442a0c773ccb021b47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6698}
+    spritePosition: {x: 2150, y: 1052}
   - name: CB PF
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2953,6 +3060,7 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
+<<<<<<< Updated upstream
       width: 2624
       height: 2860
     spriteID: 88d8d346190587d4a9f2bc41a337377f
@@ -2984,6 +3092,12 @@ ScriptedImporter:
       color:
         serializedVersion: 2
         rgba: 4278255360
+=======
+      width: 2594
+      height: 2825
+    spriteID: 840349280c365d94b97f13e7cd022a26
+    spriteBone: []
+>>>>>>> Stashed changes
     spriteOutline: []
     vertices:
     - position: {x: 1423.288, y: 6.68396}
@@ -3464,7 +3578,7 @@ ScriptedImporter:
     - {x: 41, y: 42}
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 1388, y: 3413}
+    spritePosition: {x: 1403, y: 3416}
   spriteImportData: []
   rigSpriteImportData: []
   sharedRigSpriteImportData: []
@@ -3776,9 +3890,19 @@ ScriptedImporter:
     spriteName: "BR\xC7 PF 1"
     isGroup: 0
     parentIndex: -1
-    spriteID: a3da5ebcd56690c4bbc38e63a5bd8370
-    layerID: 104
-    mosaicPosition: {x: 4, y: 5898}
+    spriteID: ed2df7ae07212e743aa919be16d482c9
+    layerID: 61
+    mosaicPosition: {x: 3305, y: 1722}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "BR\xC7 PF A1"
+    spriteName: "BR\xC7 PF A1"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4394b58c74ed22b4cb8fcb126cd84d4c
+    layerID: 81
+    mosaicPosition: {x: 2606, y: 1722}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -3786,9 +3910,9 @@ ScriptedImporter:
     spriteName: TRON PF
     isGroup: 0
     parentIndex: -1
-    spriteID: 0c0647d7882a67443a17b74db76fd111
-    layerID: 100
-    mosaicPosition: {x: 4, y: 2872}
+    spriteID: 6e7b2490cf2619f41ae006f96dc157ec
+    layerID: 65
+    mosaicPosition: {x: 4, y: 2837}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -3796,29 +3920,49 @@ ScriptedImporter:
     spriteName: "BR\xC7 PF 1"
     isGroup: 0
     parentIndex: -1
-    spriteID: ebe789be7ba49024ea086b5c1928d0cb
-    layerID: 98
-    mosaicPosition: {x: 2636, y: 1549}
+    spriteID: 4c3c6ac946e1ed0448ba93f75fff3101
+    layerID: 75
+    mosaicPosition: {x: 2606, y: 853}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "CAL\xC7 F1"
-    spriteName: "CAL\xC7 F1"
+  - name: "BR\xC7 PF A1"
+    spriteName: "BR\xC7 PF A1"
     isGroup: 0
     parentIndex: -1
-    spriteID: de0a4473b070faf4db85c4f76de33b5c
-    layerID: 108
-    mosaicPosition: {x: 2636, y: 4}
+    spriteID: caa99134eb2f2ee45afa339b8a0b6419
+    layerID: 69
+    mosaicPosition: {x: 2606, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: PERN T1
-    spriteName: PERN T1
+  - name: "CAL\xC7 PF"
+    spriteName: "CAL\xC7 PF"
     isGroup: 0
     parentIndex: -1
-    spriteID: b964ad237608ebd41a6928130f062a4a
-    layerID: 110
-    mosaicPosition: {x: 4, y: 4489}
+    spriteID: 78a8d1b599058204db0fc0e394ecefbf
+    layerID: 67
+    mosaicPosition: {x: 4, y: 4436}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PE PF F1
+    spriteName: PE PF F1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33c0a4a45a427bd4595e20856caaa53c
+    layerID: 71
+    mosaicPosition: {x: 4, y: 5457}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PF PF F1
+    spriteName: PF PF F1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 764b8dc845bfb3442a0c773ccb021b47
+    layerID: 73
+    mosaicPosition: {x: 4, y: 6698}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -3826,8 +3970,8 @@ ScriptedImporter:
     spriteName: CB PF
     isGroup: 0
     parentIndex: -1
-    spriteID: 88d8d346190587d4a9f2bc41a337377f
-    layerID: 92
+    spriteID: 840349280c365d94b97f13e7cd022a26
+    layerID: 60
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
     isImported: 1
